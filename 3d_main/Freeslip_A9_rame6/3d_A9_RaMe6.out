@@ -1,0 +1,126 @@
+1000000.0
+1333333.333333333
+2024-04-04 12:17:36,735 subsystems 0/36 INFO :: Building subproblem matrices 1/576 (~0%) Elapsed: 0s, Remaining: 2m 11s, Rate: 4.4e+00/s
+2024-04-04 12:17:43,956 subsystems 0/36 INFO :: Building subproblem matrices 58/576 (~10%) Elapsed: 7s, Remaining: 1m 07s, Rate: 7.8e+00/s
+2024-04-04 12:17:46,584 subsystems 0/36 INFO :: Building subproblem matrices 79/576 (~14%) Elapsed: 10s, Remaining: 1m 03s, Rate: 7.8e+00/s
+2024-04-04 12:17:51,299 subsystems 0/36 INFO :: Building subproblem matrices 116/576 (~20%) Elapsed: 15s, Remaining: 59s, Rate: 7.8e+00/s
+2024-04-04 12:17:56,594 subsystems 0/36 INFO :: Building subproblem matrices 158/576 (~27%) Elapsed: 20s, Remaining: 53s, Rate: 7.9e+00/s
+2024-04-04 12:17:58,634 subsystems 0/36 INFO :: Building subproblem matrices 174/576 (~30%) Elapsed: 22s, Remaining: 51s, Rate: 7.9e+00/s
+2024-04-04 12:18:06,175 subsystems 0/36 INFO :: Building subproblem matrices 232/576 (~40%) Elapsed: 30s, Remaining: 44s, Rate: 7.8e+00/s
+2024-04-04 12:18:06,560 subsystems 0/36 INFO :: Building subproblem matrices 235/576 (~41%) Elapsed: 30s, Remaining: 44s, Rate: 7.8e+00/s
+2024-04-04 12:18:13,752 subsystems 0/36 INFO :: Building subproblem matrices 290/576 (~50%) Elapsed: 37s, Remaining: 37s, Rate: 7.8e+00/s
+2024-04-04 12:18:16,569 subsystems 0/36 INFO :: Building subproblem matrices 312/576 (~54%) Elapsed: 40s, Remaining: 34s, Rate: 7.8e+00/s
+2024-04-04 12:18:21,178 subsystems 0/36 INFO :: Building subproblem matrices 348/576 (~60%) Elapsed: 45s, Remaining: 29s, Rate: 7.8e+00/s
+2024-04-04 12:18:26,621 subsystems 0/36 INFO :: Building subproblem matrices 389/576 (~68%) Elapsed: 50s, Remaining: 24s, Rate: 7.8e+00/s
+2024-04-04 12:18:28,801 subsystems 0/36 INFO :: Building subproblem matrices 406/576 (~70%) Elapsed: 52s, Remaining: 22s, Rate: 7.8e+00/s
+2024-04-04 12:18:36,176 subsystems 0/36 INFO :: Building subproblem matrices 464/576 (~81%) Elapsed: 1m 00s, Remaining: 14s, Rate: 7.8e+00/s
+2024-04-04 12:18:36,562 subsystems 0/36 INFO :: Building subproblem matrices 467/576 (~81%) Elapsed: 1m 00s, Remaining: 14s, Rate: 7.8e+00/s
+2024-04-04 12:18:43,850 subsystems 0/36 INFO :: Building subproblem matrices 522/576 (~91%) Elapsed: 1m 07s, Remaining: 7s, Rate: 7.8e+00/s
+2024-04-04 12:18:46,542 subsystems 0/36 INFO :: Building subproblem matrices 543/576 (~94%) Elapsed: 1m 10s, Remaining: 4s, Rate: 7.8e+00/s
+2024-04-04 12:18:50,764 subsystems 0/36 INFO :: Building subproblem matrices 576/576 (~100%) Elapsed: 1m 14s, Remaining: 0s, Rate: 7.8e+00/s
+2024-04-04 12:18:51,048 __main__ 0/36 INFO :: Starting main loop
+2024-04-04 12:19:00,646 __main__ 0/36 INFO :: Iteration=1, Time=1.250000e-01, dt=1.250000e-01, max(Re)=0.000000
+2024-04-04 12:19:12,831 __main__ 0/36 INFO :: Iteration=11, Time=1.375000e+00, dt=1.250000e-01, max(Re)=0.060966
+2024-04-04 12:19:23,638 __main__ 0/36 INFO :: Iteration=21, Time=2.625000e+00, dt=1.250000e-01, max(Re)=0.455511
+2024-04-04 12:19:34,826 __main__ 0/36 INFO :: Iteration=31, Time=3.875000e+00, dt=1.250000e-01, max(Re)=4.068930
+2024-04-04 12:19:46,022 __main__ 0/36 INFO :: Iteration=41, Time=5.125000e+00, dt=1.250000e-01, max(Re)=43.798440
+2024-04-04 12:19:56,993 __main__ 0/36 INFO :: Iteration=51, Time=6.375000e+00, dt=1.250000e-01, max(Re)=471.444632
+2024-04-04 12:20:10,548 __main__ 0/36 INFO :: Iteration=61, Time=7.000000e+00, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:20:21,733 __main__ 0/36 INFO :: Iteration=71, Time=7.625000e+00, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:20:32,605 __main__ 0/36 INFO :: Iteration=81, Time=8.250000e+00, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:20:43,556 __main__ 0/36 INFO :: Iteration=91, Time=8.875000e+00, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:20:54,788 __main__ 0/36 INFO :: Iteration=101, Time=9.500000e+00, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:21:05,996 __main__ 0/36 INFO :: Iteration=111, Time=1.012500e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:21:17,038 __main__ 0/36 INFO :: Iteration=121, Time=1.075000e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:21:28,215 __main__ 0/36 INFO :: Iteration=131, Time=1.137500e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:21:39,193 __main__ 0/36 INFO :: Iteration=141, Time=1.200000e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:21:50,321 __main__ 0/36 INFO :: Iteration=151, Time=1.262500e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:22:01,521 __main__ 0/36 INFO :: Iteration=161, Time=1.325000e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:22:12,520 __main__ 0/36 INFO :: Iteration=171, Time=1.387500e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:22:23,611 __main__ 0/36 INFO :: Iteration=181, Time=1.450000e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:22:34,440 __main__ 0/36 INFO :: Iteration=191, Time=1.512500e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:22:45,559 __main__ 0/36 INFO :: Iteration=201, Time=1.575000e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:22:56,675 __main__ 0/36 INFO :: Iteration=211, Time=1.637500e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:23:07,686 __main__ 0/36 INFO :: Iteration=221, Time=1.700000e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:23:18,808 __main__ 0/36 INFO :: Iteration=231, Time=1.762500e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:23:29,948 __main__ 0/36 INFO :: Iteration=241, Time=1.825000e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:23:40,608 __main__ 0/36 INFO :: Iteration=251, Time=1.887500e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:23:51,752 __main__ 0/36 INFO :: Iteration=261, Time=1.950000e+01, dt=6.250000e-02, max(Re)=nan
+2024-04-04 12:24:00,478 solvers 0/36 INFO :: Simulation stop time reached.
+2024-04-04 12:24:00,484 solvers 0/36 INFO :: Final iteration: 269
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+2024-04-04 12:24:00,484 solvers 0/36 INFO :: Final sim time: 20.0
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+2024-04-04 12:24:00,484 solvers 0/36 INFO :: Setup time (init - iter 0): 76.31 sec
+2024-04-04 12:24:00,485 solvers 0/36 INFO :: Warmup time (iter 0-10): 17.87 sec
+2024-04-04 12:24:00,485 solvers 0/36 INFO :: Run time (iter 10-end): 289.8 sec
+2024-04-04 12:24:00,485 solvers 0/36 INFO :: CPU time (iter 10-end): 2.898 cpu-hr
+2024-04-04 12:24:00,485 solvers 0/36 INFO :: Speed: 8.26e+05 mode-stages/cpu-sec
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
+1000000.0
+1333333.333333333
