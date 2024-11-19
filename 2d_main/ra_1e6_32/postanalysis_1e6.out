@@ -1,0 +1,6 @@
+kappa 0.0011952286093343937
+nu 0.0008366600265340755
+R_0 20.0
+['analysis_2/analysis_2_s1.h5', 'analysis_2/analysis_2_s2.h5']
+['snapshots/snapshots_s1.h5', 'snapshots/snapshots_s2.h5']
+['snapshots/snapshots_s1.h5', 'snapshots/snapshots_s2.h5']

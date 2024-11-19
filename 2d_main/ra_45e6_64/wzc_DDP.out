@@ -1,0 +1,3 @@
+slurmstepd: error: *** JOB 49362093 ON cm015 CANCELLED AT 2024-08-05T13:03:24 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 49362093.0 ON cm015 CANCELLED AT 2024-08-05T13:03:24 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
